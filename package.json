@@ -16,6 +16,7 @@
   "dependencies": {
   "@google/generative-ai": "^0.24.1",
   "@mistralai/mistralai": "^1.11.0",
+  "akinator-api": "^1.0.1",
   "axios": "^1.13.4",
   "cors": "^2.8.6",
   "dotenv": "^17.2.3",
